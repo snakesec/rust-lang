@@ -1,0 +1,3 @@
+#!/bin/bash
+
+CARGO_HOME=/opt/ANDRAX/rust-lang RUSTUP_HOME=/opt/ANDRAX/rust-lang /opt/ANDRAX/rust-lang/bin/rust-analyzer "$@"
